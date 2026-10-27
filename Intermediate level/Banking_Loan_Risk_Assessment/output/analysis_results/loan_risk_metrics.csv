@@ -1,0 +1,11 @@
+Metric,Value
+total_loan_records,32416.0
+defaulted_loan_records,7089.0
+non_defaulted_loan_records,25327.0
+default_rate_percent,21.87
+non_default_rate_percent,78.13
+average_loan_amount,9593.85
+average_interest_rate_percent,11.01
+average_income,66091.64
+average_loan_to_income_percent,17.02
+average_age,27.75

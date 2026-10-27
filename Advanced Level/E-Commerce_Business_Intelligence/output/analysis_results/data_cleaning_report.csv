@@ -1,0 +1,10 @@
+dataset,rows_after_cleaning,columns,missing_cells_remaining,exact_duplicates_removed,notes
+customers,99441,5,0,0,
+orders,99441,8,4908,0,Missing operational dates preserved where unavailable.
+products,32951,9,1838,0,Unknown category labeled; missing physical dimensions preserved.
+sellers,3095,4,0,0,
+order_items,112650,7,0,0,
+payments,103886,5,0,0,
+reviews,99224,7,0,0,Rows with repeated review_id flagged for investigation: 1603. No records removed based only on review_id.
+geolocation,738332,5,0,261831,Exact duplicate rows removed; multiple coordinates per postal code retained.
+category_translation,71,2,0,0,

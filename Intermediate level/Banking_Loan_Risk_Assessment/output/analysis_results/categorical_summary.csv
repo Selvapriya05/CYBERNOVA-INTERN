@@ -1,0 +1,5 @@
+Column,Unique_Values
+person_home_ownership,4
+loan_intent,6
+loan_grade,7
+cb_person_default_on_file,2

@@ -1,0 +1,2 @@
+total_orders_all_statuses,delivered_orders,delivered_merchandise_revenue,delivered_freight_charged,eligible_delivered_orders_for_delay_rate,late_delivered_orders,late_delivery_rate_pct,average_delivery_days,review_records_joined_to_eligible_deliveries
+99441,96478,13221498.11,2198275.64,96470,7826,8.11,12.56,96353

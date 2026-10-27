@@ -1,0 +1,34 @@
+risk_factor,category,total_loans,defaulted_loans,default_rate_percent
+loan_grade,A,10703,1066,9.96
+loan_grade,B,10387,1695,16.32
+loan_grade,C,6438,1336,20.75
+loan_grade,D,3620,2138,59.06
+loan_grade,E,963,621,64.49
+loan_grade,F,241,170,70.54
+loan_grade,G,64,63,98.44
+loan_intent,DEBTCONSOLIDATION,5189,1488,28.68
+loan_intent,EDUCATION,6411,1106,17.25
+loan_intent,HOMEIMPROVEMENT,3594,940,26.15
+loan_intent,MEDICAL,6042,1617,26.76
+loan_intent,PERSONAL,5498,1094,19.9
+loan_intent,VENTURE,5682,844,14.85
+person_home_ownership,MORTGAGE,13369,1687,12.62
+person_home_ownership,OTHER,106,33,31.13
+person_home_ownership,OWN,2563,192,7.49
+person_home_ownership,RENT,16378,5177,31.61
+cb_person_default_on_file,N,26686,4919,18.43
+cb_person_default_on_file,Y,5730,2170,37.87
+age_group,18-25,15245,3527,23.14
+age_group,26-35,13711,2837,20.69
+age_group,36-45,2809,581,20.68
+age_group,46-55,512,112,21.88
+age_group,56+,139,32,23.02
+interest_rate_group,12%-16%,9243,2892,31.29
+interest_rate_group,8%-12%,13583,2288,16.84
+interest_rate_group,Above 16%,1873,1186,63.32
+interest_rate_group,Up to 8%,7717,723,9.37
+loan_amount_group,10k-20k,10508,2441,23.23
+loan_amount_group,20k-35k,2960,1002,33.85
+loan_amount_group,5k-10k,11367,2047,18.01
+loan_amount_group,Above 35k,184,60,32.61
+loan_amount_group,Up to 5k,7397,1539,20.81

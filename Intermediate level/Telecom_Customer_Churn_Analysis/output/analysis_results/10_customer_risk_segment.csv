@@ -1,0 +1,5 @@
+risk_segment,Customers,Churned,Churn_Rate
+High Risk,1037,1037,100.0
+Low Risk,4025,0,0.0
+Medium Risk,832,832,100.0
+Watchlist,1149,0,0.0

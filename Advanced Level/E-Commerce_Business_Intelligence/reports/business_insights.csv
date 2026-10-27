@@ -1,0 +1,11 @@
+﻿Business_Area,Finding,Recommended_Action
+Monthly Sales,"Highest-revenue month: 2017-11, with 987,765.37 BRL.","Investigate order volume, seasonal demand, and popular categories during the highest-revenue month."
+Monthly Sales,"Lowest-revenue month: 2016-12, with 10.90 BRL.","Check whether the result reflects seasonality, fewer orders, or an incomplete month."
+Product Categories,"Highest-revenue category: health_beauty, with 1,258,681.34 BRL.",Review demand and inventory availability for this category before planning stock levels.
+Geographic Performance,"Highest-revenue state: SP, with 5,202,955.05 BRL.","Compare order volume, delivery performance, and category demand in this state before making regional investment decisions."
+Customer Retention,"One-time customer: 90,557 customers (97.00% of customers in this analysis).",Use customer purchase history to understand retention and identify opportunities to encourage repeat orders.
+Customer Retention,"Repeat customer: 2,801 customers (3.00% of customers in this analysis).",Use customer purchase history to understand retention and identify opportunities to encourage repeat orders.
+Delivery Performance,"On time or early: 88,644 orders (91.89%).",Investigate delayed deliveries by region and seller to find possible logistics bottlenecks.
+Delivery Performance,"Late: 7,826 orders (8.11%).",Investigate delayed deliveries by region and seller to find possible logistics bottlenecks.
+Payment Methods,"Most frequent payment type: credit_card, with 76,795 payment records.",Compare payment frequency and total payment value to understand customer payment preferences.
+Payment Value,"Highest total payment value: credit_card, with 12,542,084.19 BRL.",Review payment values by method when evaluating payment options.
